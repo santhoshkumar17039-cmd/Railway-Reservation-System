@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230251
+# Name:SANTHOSH KUAMR S S
+# Date:20/11/2026
 
 
 # AIM:
@@ -59,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1302" height="1000" alt="Screenshot 2026-10-27 144138" src="https://github.com/user-attachments/assets/6656562b-3b5c-446b-bada-25b81e47cbb7" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -79,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1232" height="964" alt="Screenshot 2026-11-03 141046" src="https://github.com/user-attachments/assets/00479fa7-4d0a-4f93-8f89-3ca6d7bbffc2" />
 
 
 
@@ -107,6 +109,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1108" height="887" alt="image" src="https://github.com/user-attachments/assets/8dec18a5-b8f5-4803-af72-512f1789ab67" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
